@@ -1,0 +1,2 @@
+This data was fetched from the AGGM API.
+Early data was not available so a linear regression was made (it fit very accuratly, so it can be trusted)

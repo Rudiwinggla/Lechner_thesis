@@ -1,0 +1,3 @@
+Sequence length = 24
+shuffled
+To big for Git, can be generated through scripts

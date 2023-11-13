@@ -1,0 +1,2 @@
+This Data was fetched from the ENTSO-E API.
+Each file has different productions per type(e.g. in Austria is now column for nuclear because there is no nuclear production in Austria). This issue is resolved later

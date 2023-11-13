@@ -1,0 +1,7 @@
+These files have already been processed. All the columns in all country files are the same and have been scaled properly.
+NaN values have been removed. There have been a lot in certain countries for the renewable energy production. 
+They have been filled up with 0. Have to check after if this poses a problem
+
+This files can be used to train models.
+
+the .pkl is a list of all the dataframes for faster loading. .pkl is to big for Git, can be generated through scripts

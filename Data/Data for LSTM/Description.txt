@@ -1,0 +1,5 @@
+All data has been shuffled. 
+The split is:
+0.7 Training Data
+0.15 Validation Data
+0.15 Test Data
